@@ -2,3 +2,5 @@ node_modules/
 dist/
 .idea/
 .eslintcache
+.husky
+.DS_Store
